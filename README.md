@@ -20,6 +20,7 @@ A multi-functional network tool designed to simplify administrative and security
   - SQLMap
 
 ## Installation
+- sudo apt update
 - sudo git clone https://github.com/jfhdhhf/py-toolkit.git
 - cd py-toolkit
 - pip install -r requirements.txt
