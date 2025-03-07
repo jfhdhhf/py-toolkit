@@ -20,10 +20,10 @@ A multi-functional network tool designed to simplify administrative and security
   - SQLMap
 
 ## Installation
-1-sudo git clone https://github.com/jfhdhhf/py-toolkit.git
-2-cd py-toolkit
-3-pip install -r requirements.txt
-4-sudo python3 py-toolkit.py
+#1-sudo git clone https://github.com/jfhdhhf/py-toolkit.git
+#2-cd py-toolkit
+#3-pip install -r requirements.txt
+#4-sudo python3 py-toolkit.py
 
 # Python Installation Guide for Linux
 
@@ -31,15 +31,15 @@ This guide provides step-by-step instructions to install Python on various Linux
 
  Debian/Ubuntu:
  
-sudo apt install python3
-sudo apt install python3-pip
+#sudo apt install python3
+#sudo apt install python3-pip
 
  Fedora:
 
- sudo dnf install python3
- sudo dnf install python3-pip
+ #sudo dnf install python3
+ #sudo dnf install python3-pip
 
  Arch Linux:
 
-sudo pacman -S python
-sudo pacman -S python-pip
+#sudo pacman -S python
+#sudo pacman -S python-pip
